@@ -1,0 +1,14 @@
+Valuta/ValutaApplication.java
+ Valuta.ValutaApplication
+Valuta/CurrenciesRepository.java
+ Valuta.CurrenciesRepository
+Valuta/CurrenciesNotFoundAdvice.java
+ Valuta.CurrenciesNotFoundAdvice
+Valuta/CurrenciesNotFoundException.java
+ Valuta.CurrenciesNotFoundException
+Valuta/CurrenciesController.java
+ Valuta.CurrenciesController
+Valuta/Currencies.java
+ Valuta.Currencies
+Valuta/LoadDatabase.java
+ Valuta.LoadDatabase
